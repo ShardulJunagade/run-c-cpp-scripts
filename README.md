@@ -53,7 +53,7 @@ run_cpp filename.c
 run_cpp filename.cpp
 ```
 
-**Note:** In Windows, this behavior depends on your environment configuration. If it doesn’t work, use the full script name (run_cpp.ps1 or run_cpp.bat) depending on your terminal.
+**Note:** In Windows, this behavior depends on your environment configuration. If it doesn’t work, use the full script name (`run_cpp.ps1` or `run_cpp.bat`) depending on your terminal.
 
 
 
